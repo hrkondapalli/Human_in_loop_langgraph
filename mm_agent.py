@@ -41,7 +41,7 @@ class MovieRecommendationsAgent:
             max_tokens=None,
             timeout=None,
             max_retries=2,
-            api_key="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",  # if you prefer to pass api key in directly instaed of using env vars
+            api_key="your key here",  # if you prefer to pass api key in directly instaed of using env vars
         )
         messages = [
             (
